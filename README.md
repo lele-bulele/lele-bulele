@@ -1,4 +1,4 @@
-![Xiao Ding · Java backend developer · Ever onward](assets/profile-console.svg)
+![Ether · Void Runner · Ever onward](assets/profile-console.svg)
 
 I build backend software in Java and write tools to solve problems I run into.
 
