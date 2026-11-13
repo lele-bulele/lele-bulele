@@ -1,21 +1,21 @@
-# 迎风而行
+# Ever onward
 
-*Ever onward.*  
-**小丁** · Java 后端开发 · 《艾尔登法环》
+*Into the wind.*  
+**Xiao Ding** · Java backend developer · Elden Ring player
 
-## 作品展柜
+## Project Showcase
 
-| 精选项目 | 平台 | 技术 |
+| Featured Project | Platform | Built With |
 | :--- | :--- | :--- |
 | [**Elden Ring Message Finder**](https://github.com/lele-bulele/elden-ring-message-finder) | PC / Steam | Python · Agent Skill |
 
-忘了自己把留言写在哪儿？从本地存档副本里找出地图编号和坐标，循着线索回到交界地的那个地方。
+Forgot where you left a message in Elden Ring? This tool reads a local copy of your save file and extracts the map ID and coordinates so you can find your way back.
 
-## 交界地手记
+## Notes from the Lands Between
 
 <details>
-<summary>展开留言 · 巨大的家伙，敬请见证</summary>
+<summary>Read the story · Giant, behold!</summary>
 
-一条留在圣树的讯息，隔了好几个周目才找回原处。循着坐标来到艾布雷菲尔的祈祷室附近，才发现当初郑重敬礼的「巨大的家伙」，是墙上被光拉长的影子。
+I left a message in the Haligtree and spent several playthroughs trying to find it again. The coordinates led me back to the Prayer Room in Elphael. The “giant” I’d so solemnly saluted turned out to be my own shadow, stretched across the wall.
 
 </details>
