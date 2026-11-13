@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 330" role="img" aria-labelledby="title desc">
-  <title id="title">Xiao Ding — Java backend developer</title>
+  <title id="title">Ether — Void Runner</title>
   <desc id="desc">A dark terminal panel with cyan circuit traces, a violet processor grid, and neon pixel accents.</desc>
   <defs>
     <linearGradient id="panel" x2="1" y2="1" gradientUnits="objectBoundingBox">
@@ -45,8 +45,8 @@
   <!-- Identity -->
   <path d="M44 104v121" stroke="#334964" stroke-width="2"/>
   <path d="M44 104v27" stroke="#6bf3ff" stroke-width="2"/>
-  <text x="65" y="162" fill="#f1f6ff" font-family="system-ui, sans-serif" font-size="76" font-weight="750" letter-spacing="-3">Xiao Ding</text>
-  <text x="69" y="208" fill="#83e9fb" font-family="monospace" font-size="23" letter-spacing="1.8">JAVA BACKEND DEVELOPER</text>
+  <text x="65" y="162" fill="#f1f6ff" font-family="system-ui, sans-serif" font-size="76" font-weight="750" letter-spacing="-3">Ether</text>
+  <text x="69" y="208" fill="#83e9fb" font-family="monospace" font-size="23" letter-spacing="1.8">VOID RUNNER</text>
   <path d="M69 237h247l12 12h116" fill="none" stroke="#344864"/>
   <path d="M69 237h55" stroke="#6879ff" stroke-width="2"/>
 
