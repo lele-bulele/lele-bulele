@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/millicent-altus.jpg" alt="米莉森迎着风走在亚坛高原上，金色原野延伸向远处的拱门与黄金树" width="100%">
+</p>
 
-<!--
-**lele-bulele/lele-bulele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">迎风而行</h1>
 
-Here are some ideas to get you started:
+<p align="center"><em>Ever onward.</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我是小丁，写 Java 后端，也做一些和《艾尔登法环》有关的小工具。
+
+## 交界地的留言
+
+**[Elden Ring Message Finder](https://github.com/lele-bulele/elden-ring-message-finder)**  
+找回忘了写在哪里的法环留言。这个工具从 PC 存档副本读取留言的地图编号和坐标，帮你循着线索回到写下它的地方。
