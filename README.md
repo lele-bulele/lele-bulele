@@ -1,14 +1,21 @@
-<p align="center">
-  <img src="assets/millicent-altus.jpg" alt="米莉森迎着风走在亚坛高原上，金色原野延伸向远处的拱门与黄金树" width="100%">
-</p>
+# 迎风而行
 
-<h1 align="center">迎风而行</h1>
+*Ever onward.*  
+**小丁** · Java 后端开发 · 《艾尔登法环》
 
-<p align="center"><em>Ever onward.</em></p>
+## 作品展柜
 
-我是小丁，写 Java 后端，也做一些和《艾尔登法环》有关的小工具。
+| 精选项目 | 平台 | 技术 |
+| :--- | :--- | :--- |
+| [**Elden Ring Message Finder**](https://github.com/lele-bulele/elden-ring-message-finder) | PC / Steam | Python · Agent Skill |
 
-## 交界地的留言
+忘了自己把留言写在哪儿？从本地存档副本里找出地图编号和坐标，循着线索回到交界地的那个地方。
 
-**[Elden Ring Message Finder](https://github.com/lele-bulele/elden-ring-message-finder)**  
-找回忘了写在哪里的法环留言。这个工具从 PC 存档副本读取留言的地图编号和坐标，帮你循着线索回到写下它的地方。
+## 交界地手记
+
+<details>
+<summary>展开留言 · 巨大的家伙，敬请见证</summary>
+
+一条留在圣树的讯息，隔了好几个周目才找回原处。循着坐标来到艾布雷菲尔的祈祷室附近，才发现当初郑重敬礼的「巨大的家伙」，是墙上被光拉长的影子。
+
+</details>
